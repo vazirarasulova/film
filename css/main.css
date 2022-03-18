@@ -1,0 +1,19 @@
+.header__box{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.film__list{
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 50px auto;
+  padding: 0;
+}
+
+.card-item{
+  list-style: none;
+}
+
